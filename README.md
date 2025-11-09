@@ -42,7 +42,7 @@ Sigo evoluindo com dedicação, buscando escrever códigos mais limpos, aprender
 <img src="https://img.shields.io/badge/Gmail-4A2F1B?style=for-the-badge&logo=gmail&logoColor=A66E38" height="32"/>
 </a>
 
-<a href="https://github.com/MarianasdLourenco" target="_blank">
+<a href="https://github.com/MarianaLourencosd" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-4A2F1B?style=for-the-badge&logo=github&logoColor=A66E38" height="32"/>
 </a>
 
